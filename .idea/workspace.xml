@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73ced002-4c8a-4f14-a468-2f35ead2713d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Rerarderbot\bot\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGDc16KjCZs1ldGNL5NT0u519o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ced002-4c8a-4f14-a468-2f35ead2713d" name="Default Changelist" comment="" />
+      <created>1590146111245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590146111245</updated>
+      <workItem from="1590146118524" duration="21908000" />
+      <workItem from="1590231242858" duration="7415000" />
+      <workItem from="1590259676135" duration="3511000" />
+      <workItem from="1590300880946" duration="2504000" />
+      <workItem from="1590820758289" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="NORMAL">
+      <created>1590258293741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590258293742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NORMAL">
+      <created>1590258415361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590258415361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NORMAL">
+      <created>1590260770941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590260770941</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NORMAL">
+      <created>1590262618977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590262618977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NORMAL" />
+    <option name="LAST_COMMIT_MESSAGE" value="NORMAL" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="149" key="#Deployment" timestamp="1590261287998">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Deployment/0.0.1280.984@0.0.1280.984" timestamp="1590261287998" />
+    <state x="404" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590262561576">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="404" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1590262561576" />
+    <state x="265" y="87" key="CommitChangelistDialog2" timestamp="1590262618539">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="265" y="87" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1590262618539" />
+    <state x="505" y="348" key="ErrorWindow" timestamp="1590259999796">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="505" y="348" key="ErrorWindow/0.0.1280.984@0.0.1280.984" timestamp="1590259999796" />
+    <state x="510" y="384" key="Github.ShareDialog" timestamp="1590260416144">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="510" y="384" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1590260416144" />
+    <state x="367" y="196" key="Github.UntrackedFilesDialog" timestamp="1590257981657">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="367" y="196" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1590257981657" />
+    <state x="141" y="122" key="SettingsEditor" timestamp="1590258844140">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="122" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1590258844140" />
+    <state x="312" y="347" key="SignInWindow" timestamp="1590260058829">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="312" y="347" key="SignInWindow/0.0.1280.984@0.0.1280.984" timestamp="1590260058829" />
+    <state x="381" y="232" key="SubscriptionsDialog" timestamp="1590260064196">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="381" y="232" key="SubscriptionsDialog/0.0.1280.984@0.0.1280.984" timestamp="1590260064196" />
+    <state x="232" y="223" key="Vcs.Push.Dialog.v2" timestamp="1590262623011">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="223" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590262623011" />
+    <state x="502" y="389" key="WebDeployment.AddServerDialog.v.1" timestamp="1590258922156">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="502" y="389" key="WebDeployment.AddServerDialog.v.1/0.0.1280.984@0.0.1280.984" timestamp="1590258922156" />
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1590301613367">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1590301613367" />
+    <state x="485" y="226" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1590258241375">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="485" y="226" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.984@0.0.1280.984" timestamp="1590258241375" />
+    <state x="296" y="221" width="672" height="677" key="run.anything.popup" timestamp="1590151137973">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="221" width="672" height="677" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1590151137973" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>

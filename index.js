@@ -20,7 +20,7 @@ client.on('message', msg => {
     if (msg.content.toLowerCase() == prefix +'ping' || msg.content.toLowerCase() == prefixs +'ping'){
         msg.reply('Pong!');
     }
-    if (msg.content.toLowerCase() == prefix +'pomoc!'  || msg.content.toLowerCase() == prefixs +'pomoc!') {
+    if (msg.content.toLowerCase() == prgiefix +'pomoc!'  || msg.content.toLowerCase() == prefixs +'pomoc!') {
         msg.reply(config.pomoc);
     }
     if(msg.content.toLowerCase() == prefix +"cat"  || msg.content.toLowerCase() == prefixs +'cat'){

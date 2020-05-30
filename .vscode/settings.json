@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".vscode",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d2a87a97-41c6-4953-81d5-62d99ada778e/resourceGroups/Retarder/providers/Microsoft.Web/sites/retarder"
+}

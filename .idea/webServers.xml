@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fd565ab-490d-4b75-ae57-7b552604bbdf" name="azure" url="ftps://waws-prod-am2-193.ftp.azurewebsites.windows.net/site/wwwroot">
+        <fileTransfer host="ftp.azurewebsites.windows.net" port="21" rootFolder="" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
